@@ -1,6 +1,5 @@
 input_data = open('input.txt', 'r') 
 data = input_data.read()
-a = str(data)
 a1 = int(data[0])
 a2 = int(data[1])
 a3 = int(data[2])
